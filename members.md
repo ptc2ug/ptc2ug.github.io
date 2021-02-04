@@ -1,7 +1,7 @@
 ---
-title: Elements
+title: Members
 feature_text: |
-  A demo of Markdown and HTML includes
+  What I want to say
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
