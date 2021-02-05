@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Arial Light",
+  font-family: '"Arial", light'
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,7 +23,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: "Arial Light",
+  font-family: '"Arial", light'
   regular: 400,
   bold: 700,
   cap-height: 0.75
