@@ -1,6 +1,6 @@
 ---
-title: Categories
-layout: categories
-excerpt: "Category index"
+title: Reseach
+layout: research
+excerpt: "Research index"
 aside: true
 ---
