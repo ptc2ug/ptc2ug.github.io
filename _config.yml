@@ -123,14 +123,12 @@ navigation_header:
   url: /
 - title: Members
   url: /members/
+- title: Research
+  url: /research/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by Peter Cummings based on a template by David Darnes
