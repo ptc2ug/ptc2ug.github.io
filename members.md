@@ -1,7 +1,7 @@
 ---
 title: Members
 feature_text: |
-  What I want to say
+  Current and Past Research Group Members
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
@@ -9,11 +9,11 @@ aside: true
 
 # Heading 1
 
-## Heading 2
+#### Peter T. Cummings
 
-### Heading 3
+#### Chris Iacovella
 
-#### Heading 4
+#### Justin B. Gilmer
 
 ##### Heading 5
 
