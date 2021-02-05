@@ -7,8 +7,6 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
-
 #### Peter T. Cummings
 
 #### Chris Iacovella
