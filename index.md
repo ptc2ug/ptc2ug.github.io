@@ -1,10 +1,10 @@
 ---
 title: About This Site
 feature_text: |
-  ## Cummings Group web site
-  Welcome to the web site for Peter Cummings's group at Vanderbilt University
+  ## Cummings Group Website
+  Welcome to the web site for Peter Cummings' group at Vanderbilt University
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Welcome to the web site for Peter Cummings' group at Vanderbilt University"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
