@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: About This Site
 feature_text: |
   ## Cummings Group web site
   Welcome to the web site for Peter Cummings's group at Vanderbilt University
