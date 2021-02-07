@@ -13,7 +13,7 @@ Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbi
 
 Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)
 
-Peter Cummings web page at Vanderbilt University is available (https://engineering.vanderbilt.edu/bio/peter-cummings "here.")
+Peter Cummings web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")
 
 
 #### Chris Iacovella
