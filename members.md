@@ -8,7 +8,7 @@ aside: true
 ---
 ### Principal Investigator
 
-{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="Peter T. Cummings 200" width="200" %}
+{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="Peter T. Cummings" width="200" %}
 <small>Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbilt University.</small>
 
 <small>Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)</small>
@@ -19,7 +19,7 @@ aside: true
 
 ### Research Faculty 
 
-{% include figure.html image="/assets/current/chris_iacovella.jpg" position="left" caption="Christopher R. Iacovella" width="300" %}
+{% include figure.html image="/assets/current/chris_iacovella.jpg" position="left" caption="Christopher R. Iacovella" width="200" %}
 <small>Chris is Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [Clare McCabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare McCabe.")</small>
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (XXXX); Ph.D., University of Michigan (XXXX)</small>
@@ -33,7 +33,7 @@ aside: true
 
 ### Graduate Students
 
-{% include figure.html image="/assets/current/justin_gilmer.jpg" position="left" caption="Justin B. Gilmer" width="300" %}
+{% include figure.html image="/assets/current/justin_gilmer.jpg" position="left" caption="Justin B. Gilmer" width="200" %}
 <small>Justin is performing research on nontribological systems and is a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small>Education: B.S., Materials Science, Clemson University, (XXXX) </small>
@@ -48,7 +48,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="300" %}
+{% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="200" %}
 <small>Ray is performing simulation of systems relevant to capacitive energy storag devices. He also contributes to thhe development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small>Education: B.S., Chemical Engineering, Clemson University, (XXXX) </small>
