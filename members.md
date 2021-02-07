@@ -8,7 +8,7 @@ aside: true
 ---
 
 #### Peter T. Cummings
-{% include figure.html image="assets/current/20140826JR023.png caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="/assets/current/20140826JR023.png" caption="Image with caption" width="300" height="800" %}
 
 #### Chris Iacovella
 
