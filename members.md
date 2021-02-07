@@ -10,7 +10,7 @@ aside: true
 
 #### Peter T. Cummings
 
-{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="" width="300" %}
+{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="test" width="300" %}
 
 #### Chris Iacovella
 
