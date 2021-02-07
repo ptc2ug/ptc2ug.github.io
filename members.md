@@ -9,11 +9,11 @@ aside: true
 ### Principal Investigator
 
 {% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="Peter T. Cummings" width="300" %}
-Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbilt University.
+<small>Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbilt University.
 
 Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)
 
-Peter Cummings web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")
+Peter Cummings web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")</small>
 
 
 #### Chris Iacovella
