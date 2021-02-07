@@ -42,6 +42,10 @@ aside: true
 
 <small> </small>
 
+<small> </small>
+
+<small> </small>
+
 {% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="300" %}
 <small>Ray is performing simulation of systems relevant to capacitive energy storag devices. He also contributes to thhe development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
