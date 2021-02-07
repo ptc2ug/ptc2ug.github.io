@@ -125,6 +125,8 @@ navigation_header:
   url: /members/
 - title: Research
   url: /research/
+- title: Publications
+  url: /publications/
 - title: Blog
   url: /blog/
 - title: Search
