@@ -7,7 +7,9 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 ### Principal Investigator
+
 #### Peter T. Cummings
+
 {% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="" width="300" %}
 
 #### Chris Iacovella
