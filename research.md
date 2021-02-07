@@ -5,9 +5,17 @@ excerpt: "Research index"
 aside: true
 ---
 
-# Heading 1
+# Research
+Our research in the group, which is computational, falls into three main categories.
 
-## Heading 2
+A significant fraction of the research is focused on capacitive energy storage systems - specifically [supercapacitors.](https://en.wikipedia.org/wiki/Supercapacitor "supercapacitors.")   
+
+## Molecular Modeling of Systems Relevant to Capacitive Energy Storage Devices
+
+## Nanoscale Friction and Tribology
+
+## Open-Source Software Development - The Molecular Simulation Design Framework (MoSDeF)
+
 
 ### Heading 3
 
