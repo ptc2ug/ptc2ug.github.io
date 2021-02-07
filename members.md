@@ -4,7 +4,7 @@ feature_text: |
   ## Current and Past Research Group Members
 feature_image: "/assets/nobbys_beach.png"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: false
 ---
 ### Principal Investigator
 
@@ -24,7 +24,7 @@ aside: true
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (XXXX); Ph.D., University of Michigan (XXXX)</small>
 
-<small>Chris Iacovella's web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "here.") Chris wrosk with graduatae students and postdoctoral fellows on multiple projects.</small>
+<small>Chris Iacovella's web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "here.") Chris works with graduate students and postdoctoral fellows on multiple projects.</small>
 
 <small> </small>
 
