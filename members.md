@@ -4,7 +4,7 @@ feature_text: |
   ## Current and Past Research Group Members
 feature_image: "/assets/nobbys_beach.png"
 excerpt: "A demo of Markdown and HTML includes"
-aside: false
+aside: true
 ---
 ### Principal Investigator
 
