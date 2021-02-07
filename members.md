@@ -8,9 +8,9 @@ aside: true
 ---
 ### Principal Investigator
 
-#### Peter T. Cummings
-
-{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="test1" width="300" %}
+{% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="Peter T. Cummings" width="300" %}
+Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbilt University.
+Education: B. Math (Hons I), University of NEwcastle, Australia (1980).
 
 
 #### Chris Iacovella
