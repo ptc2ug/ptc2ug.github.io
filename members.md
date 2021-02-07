@@ -20,11 +20,11 @@ aside: true
 ### Research Faculty 
 
 {% include figure.html image="/assets/current/chris_iacovella.jpg" position="left" caption="Christopher R. Iacovella" width="300" %}
-<small>Chris Iacovella is Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [Clare McCabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare McCabe.")</small>
+<small>Chris is Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [Clare McCabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare McCabe.")</small>
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (XXXX); Ph.D., University of Michigan (XXXX)</small>
 
-<small>Chris Iacovella's web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "here.")</small>
+<small>Chris Iacovella's web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "here.") Chris wrosk with graduatae students and postdoctoral fellows on multiple projects.</small>
 
 <small> </small>
 
@@ -41,6 +41,11 @@ aside: true
 <small> </small>
 
 <small> </small>
+
+{% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="300" %}
+<small>Ray is performing simulation of systems relevant to capacitive energy storag devices. He also contributes to thhe development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+
+<small>Education: B.S., Chemical Engineering, Clemson University, (XXXX) </small>
 
 
 
