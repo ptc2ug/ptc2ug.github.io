@@ -1,5 +1,5 @@
 ---
-title: Members
+title: Research
 feature_text: |
   ## Research
 feature_image: "/assets/nobbys_beach.png"
@@ -7,8 +7,7 @@ excerpt: "Description of research in Cummongs group"
 aside: true
 ---
 
-# Research
-The research in the group, which is computational, falls into three main categories.
+The research in our group, which is computational, falls into three main categories.
 
 A significant fraction of the research is focused on capacitive energy storage systems - specifically [supercapacitors.](https://en.wikipedia.org/wiki/Supercapacitor "supercapacitors.")   
 
