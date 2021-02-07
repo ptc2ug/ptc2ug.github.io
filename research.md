@@ -7,7 +7,7 @@ excerpt: "Description of research in Cummongs group"
 aside: true
 ---
 
-The research in our group, which is computational, falls into three main categories.
+The research in our group, which is computational in nature, falls into three main categories.
 
 A significant fraction of the research is focused on capacitive energy storage systems - specifically [supercapacitors.](https://en.wikipedia.org/wiki/Supercapacitor "supercapacitors.")   
 
