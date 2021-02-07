@@ -15,11 +15,7 @@ aside: true
 
 <small>Peter Cummings' web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")</small>
 
-
-
-
-
-
+<small> </small>
 
 ### Research Faculty 
 
