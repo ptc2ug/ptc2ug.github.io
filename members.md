@@ -13,13 +13,19 @@ aside: true
 
 <small>Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)</small>
 
-<small>Peter Cummings web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")</small>
+<small>Peter Cummings' web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")</small>
 
 
 
 
 
-#### Chris Iacovella
+### Research Faculty 
+{% include figure.html image="/assets/current/chris_iacovella.jpg" position="left" caption="Christopher R. Iacovelle" width="300" %}
+<small>Chris Iacovella is Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [Clare McCabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare McCabe.")</small>
+<small>Education: B.S., University of Buffalo, (XXXX); Ph.D., University of Michigan (XXXX)</small>
+<small>Chris Iacovella's web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "here.")</small>
+
+
 
 #### Justin B. Gilmer
 
