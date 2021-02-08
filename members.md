@@ -36,7 +36,7 @@ aside: true
 {% include figure.html image="/assets/current/justin_gilmer.jpg" position="left" caption="Justin B. Gilmer" width="200" %}
 <small>Justin is performing research on nontribological systems and is a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
-<small>Education: B.S., Materials Science, Clemson University, (XXXX) </small>
+<small>Education: B.S., Materials Science, Clemson University, (2016) </small>
 
 <small> </small>
 
@@ -51,7 +51,7 @@ aside: true
 {% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="200" %}
 <small>Ray is performing simulation of systems relevant to capacitive energy storag devices. He also contributes to thhe development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
-<small>Education: B.S., Chemical Engineering, Clemson University, (XXXX) </small>
+<small>Education: B.S., Materials Science, Clemson University, (2015) </small>
 
 
 
