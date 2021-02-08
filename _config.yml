@@ -142,7 +142,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/ptc2ug
   link: https://engineering.vanderbilt.edu/bio/peter-cummings
   Facebook: https://www.facebook.com/peter.cummings
-  ORCID: https://orcid.org/0000-0002-9766-2216
+  orcid: https://orcid.org/0000-0002-9766-2216
   # RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
