@@ -127,6 +127,8 @@ navigation_header:
   url: /research/
 - title: Publications
   url: /publications/
+- title: MuMS
+  url: /mums/
 - title: Blog
   url: /blog/
 - title: Search
