@@ -34,7 +34,7 @@ aside: true
 ### Graduate Students
 
 {% include figure.html image="/assets/current/justin_gilmer.jpg" position="left" caption="Justin B. Gilmer" width="200" %}
-<small>Justin is performing research on nontribological systems and is a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Justin is performing research on nanotribological systems and is a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small>Education: B.S., Materials Science, Clemson University, (2016) </small>
 
