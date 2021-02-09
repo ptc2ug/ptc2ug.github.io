@@ -1,7 +1,7 @@
 ---
-title: Research
+title: MuMS
 feature_text: |
-  ## MuMS
+  ## Multiscale Modeling and Simulation (MuMS) Center
 feature_image: "/assets/nobbys_beach.png"
 excerpt: "Multiscale Modeling and Simulation (MuMS) Center"
 aside: true
@@ -13,9 +13,8 @@ The
 
 {% include map.html id="1IUcqSzxmIpm9KPITSiP7zMV8rlFKDdfi" title="MuMS Location Map" %}
 
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
+MuMS is located at 1102 17th Ave S in Nashville. See the home icon on the above map.
+
 
 ### Button include
 
