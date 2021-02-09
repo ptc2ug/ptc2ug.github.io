@@ -49,7 +49,7 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="200" %}
-<small>Ray is performing simulation of systems relevant to capacitive energy storag devices. He also contributes to thhe development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Ray is performing simulation of systems relevant to capacitive energy storage devices. He also contributes to the development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small>Education: B.S., Materials Science, Clemson University, (2015) </small>
 
