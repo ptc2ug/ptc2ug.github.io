@@ -53,6 +53,10 @@ aside: true
 
 <small>Education: B.S., Materials Science, Clemson University, (2015) </small>
 
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Co D. Quach" width="200" %}
+<small>Co perform research on nanotribological systems and is a contributor and maintainer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+
+<small>Education: B.S., Chemistry and Applied Mathematics, Millsaps College, (2018) </small>
 
 
 ##### Heading 5

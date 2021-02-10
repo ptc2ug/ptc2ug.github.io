@@ -19,6 +19,14 @@ All of our research is conducted using molecular simulation methods. Molecular s
 Our research using molecular modeling to understand, and ultimately predict, the physical properties of systems relevant to capacitive energy storage devices is funded by the Department of Energy Office of Science through an [Engineering Frontier Research Center](https://www.energyfrontier.us "Energy Frontier Research Center") called the Fluid Interface Reactions Structures and Transport (or [FIRST](https://web.ornl.gov/sci/first/ "FIRST") Center.
 
 #### 2. Nanoscale Friction and Tribology
+Micro- and nano-electromechanical (MEMS and NEMS) devices can be found in a wide range of applications, ranging from gyroscope and accelerometer, which are embeded in most smart devices, to biosensors and biochip. 
+These devices, however, still have many design constraints, mainly due to their tribological issues. 
+Because of their sizes, these devices have high surface-area-to-volume ratios, and hence are more susceptible wear and tear, as well as other surface forces usually negligible in larger system. 
+Hence, developing a lubrication scheme is essential for these devices to reach their full potential.
+This project utilize molecular dynamics simulation to investigate using thin film coatings as potential lubricants for such systems. 
+Specifically, we perform high-throughput screening try to search for optimal thin film design. 
+We also utilize machine learning algorithm to study the trends induced by each parameters of the thin film. 
+Part of this study has been [published](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b01183),  and we are still continuing working different aspect of this subject. 
 
 #### 3. Open-Source Software Development - The Molecular Simulation Design Framework (MoSDeF)
 The [Molecular Simulation and Design Framework (MoSDeF)](https://mosdef.org), is a suite of python libraries focusing on the initialization, parametrization, and enabling large-scale screening of chemical systems for molecular simulation.
