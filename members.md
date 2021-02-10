@@ -68,6 +68,21 @@ aside: true
 
 <small> </small>
 
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Co D. Quach" width="200" %}
+<small>Co perform research on nanotribological systems and is a contributor and maintainer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+
+<small>Education: B.S., Chemistry and Applied Mathematics, Millsaps College, (2018) </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
 {% include figure.html image="/assets/current/xiaobo_lin.jpg" position="left" caption="Xiaobo Lin" width="200" %}
 <small>Xiaobo is performing simulation of systems relevant to capacitive energy storage devices.</small>
 

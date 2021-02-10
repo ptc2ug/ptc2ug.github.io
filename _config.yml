@@ -135,7 +135,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Created by Peter Cummings based on a template by David Darnes
+- title: Created by Peter Cummings' group based on a template by David Darnes
   url: https://engineering.vanderbilt.edu/bio/peter-cummings
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

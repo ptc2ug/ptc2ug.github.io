@@ -24,6 +24,14 @@ As a follow-up computational screening over 400+ ionic liquid-solvent mixtures w
 Many of the trends predicted from the computational screening study were later confirmed through [NMR experiments](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c07582).
 
 #### 2. Nanoscale Friction and Tribology
+Micro- and nano-electromechanical (MEMS and NEMS) devices can be found in a wide range of applications, ranging from gyroscope and accelerometer, which are embeded in most smart devices, to biosensors and biochip. 
+These devices, however, still have many design constraints, mainly due to their tribological issues. 
+Because of their sizes, these devices have high surface-area-to-volume ratios, and hence are more susceptible wear and tear, as well as other surface forces usually negligible in larger system. 
+Hence, developing a lubrication scheme is essential for these devices to reach their full potential.
+This project utilize molecular dynamics simulation to investigate using thin film coatings as potential lubricants for such systems. 
+Specifically, we perform high-throughput screening try to search for optimal thin film design. 
+We also utilize machine learning algorithm to study the trends induced by each parameters of the thin film. 
+Part of this study has been [published](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b01183),  and we are still continuing working different aspect of this subject. 
 
 #### 3. Open-Source Software Development - The Molecular Simulation Design Framework (MoSDeF)
 The [Molecular Simulation and Design Framework (MoSDeF)](https://mosdef.org), is a suite of python libraries focusing on the initialization, parametrization, and enabling large-scale screening of chemical systems for molecular simulation.
@@ -33,6 +41,10 @@ The three main libraries that make up MoSDeF are:
   2. [foyer](https://foyer.mosdef.org): A package to assign interaction parameters for molecular systems, as well as a way to disseminate this interaction information.
   3. [gmso](https://gmso.mosdef.org): A flexible library to store chemical topology information for molecular simulations.
 These tools are designed to be used together as well as separately, encouraging modular use depending on the user's use-case.
+
+One of the goals of MoSDeF is to enable simulations to be published in such a way that they are reproducible. Reproducibility in scientific research has become a a forefront issue in science, and reproducibility is becoming increasingly expected of computational research. We have been promoting the concept of molecular simulations that are <b>T</b>ransparent, <b>R</b>eproducible, <b>U</b>sable by others, and <b>E</b>xtensible (TRUE). In the Thompson <i>et al.</i> [open access paper](https://www.tandfonline.com/doi/epub/10.1080/00268976.2020.1742938?needAccess=true "open access paper") cited below, we explore the concept of TRUE simulations as well as review MoSDeF capabilities at the time of the writing of the paper. For the most up-to-date information on MoSDeF, please visit [mosdef.org](https://mosdef.org "mosdef.org").
+
+Thompson, M. W., Gilmer, J. B., Matsumoto, R. A., Quach, C. D., Shamaprasad, P., Yang, A. H., Iacovella, C. R., McCabe, C. & Cummings, P. T., "Towards molecular simulations that are transparent, reproducible, usable by others, and extensible (TRUE)," <i>Mol. Phys.</i> <b>118</b>, e1742938 (2020). DOI: 10.1080/00268976.2020.1742938
 
 
 <small>A small element</small>
