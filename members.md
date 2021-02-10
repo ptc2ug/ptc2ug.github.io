@@ -30,6 +30,11 @@ aside: true
 
 ### Postdoctoral Researchers
 
+{% include figure.html image="/assets/current/wei_zhao.jpg" position="left" caption="Wei Zhao" width="200" %}
+<small>Wei is performing research on systems relevant to capacitive energy storage devices.</small>
+
+<small>Education: B.S., (XXXX); Ph.D., , (XXXX) </small>
+
 
 ### Graduate Students
 
@@ -53,6 +58,20 @@ aside: true
 
 <small>Education: B.S., Materials Science, Clemson University, (2015) </small>
 
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+{% include figure.html image="/assets/current/xiaobo_lin.jpg" position="left" caption="Xiaobo Lin" width="200" %}
+<small>Xiaobo is performing simulation of systems relevant to capacitive energy storage devices.</small>
+
+<small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); Masters, Chemical Engineering, Northwestern University (2019) </small>
 
 
 ##### Heading 5
