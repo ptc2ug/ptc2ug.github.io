@@ -88,5 +88,13 @@ aside: true
 
 <small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); M.S., Chemical Engineering, Northwestern University (2019) </small>
 
-## Former Group Members at Vanderbilt (2002-2020)
+## Former Group Members (incomplete, not chronological)
+### Visiting Researchers
+
+### Postdoctoral Reseaerchers
+
+### Graduate Students
+
+### Undergraduate researchers
+
 
