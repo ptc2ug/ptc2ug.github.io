@@ -86,4 +86,7 @@ aside: true
 {% include figure.html image="/assets/current/xiaobo_lin.jpg" position="left" caption="Xiaobo Lin" width="200" %}
 <small>Xiaobo is performing simulation of systems relevant to capacitive energy storage devices.</small>
 
-<small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); Masters, Chemical Engineering, Northwestern University (2019) </small>
+<small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); M.S., Chemical Engineering, Northwestern University (2019) </small>
+
+## Former Group Members at Vanderbilt (2002-2020)
+
