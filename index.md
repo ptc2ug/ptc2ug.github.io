@@ -7,4 +7,4 @@ feature_image: "/assets/default_image1.png"
 excerpt: "Welcome to the web site for Peter Cummings' group at Vanderbilt University"
 ---
 
-Welcome to the web site for Peter Cummings' group at Vanderbilt University. Please explore. Feedback can be provided on the [Publications](https://petercummings.org/Publications "Publications") web page via the comment/request form provided there. 
+Welcome to the web site for Peter Cummings' group at Vanderbilt University. Please explore. Feedback can be provided on the [Publications](https://petercummings.org/Publications "Publications") page via the comment/request form provided there. 
