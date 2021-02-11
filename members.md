@@ -3,7 +3,7 @@ title: Members
 feature_text: |
   ## Current and Past Research Group Members
 feature_image: "/assets/nobbys_beach.png"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Reseach group members past and present"
 aside: true
 ---
 ### Principal Investigator
