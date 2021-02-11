@@ -18,6 +18,11 @@ All of our research is conducted using molecular simulation methods. Molecular s
 #### 1. Molecular Modeling of Systems Relevant to Capacitive Energy Storage Devices
 Our research using molecular modeling to understand, and ultimately predict, the physical properties of systems relevant to capacitive energy storage devices is funded by the Department of Energy Office of Science through an [Engineering Frontier Research Center](https://www.energyfrontier.us "Energy Frontier Research Center") called the Fluid Interface Reactions Structures and Transport (or [FIRST](https://web.ornl.gov/sci/first/ "FIRST") Center.
 
+Ionic liquids have been a major topic of research due to their high voltage windows, but suffer from slow transport properties (slow diffusion, high viscosity).  
+To overcome this issue, ionic liquid and organic solvent solutions were [studied](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b02587) with QENS and MD, where it was believed that solvent polarity dictated the ion transport properties in these solutions.
+As a follow-up computational screening over 400+ ionic liquid-solvent mixtures was conducted, where it was determined that solvent diffusion, not polarity, is the best indicator of ion transport.
+Many of the trends predicted from the computational screening study were later confirmed through [NMR experiments](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c07582).
+
 #### 2. Nanoscale Friction and Tribology
 Micro- and nano-electromechanical (MEMS and NEMS) devices can be found in a wide range of applications, ranging from gyroscope and accelerometer, which are embeded in most smart devices, to biosensors and biochip. 
 These devices, however, still have many design constraints, mainly due to their tribological issues. 
