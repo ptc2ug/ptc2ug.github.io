@@ -92,7 +92,7 @@ aside: true
 
 ## Former Group Members (incomplete, not chronological)
 ### Visiting Researchers
-{% include figure.html image="/assets/current/mohamad_zaman_kassaee.jpg" position="left" caption="Mohamad Zaman Kassaee" width="200" %}
+{% include figure.html image="/assets/former/mohamad_zaman_kassaee.jpg" position="left" caption="Mohamad Zaman Kassaee" width="200" %}
 <small>Mohamad Zaman Kassaee, a faculty member from [Tarbiat Modares University](https://en-sci.modares.ac.ir/~kassaeem "Tarbiat Modares University"), was a visitor to the group during the 2017-2018 academic year. </small>
 
 <small> </small>
@@ -109,7 +109,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
+{% include figure.html image="/former/current/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
 <small>Kun Dong, a faculty member from the [Institute of Process Engineering](http://english.ipe.cas.cn "Institute of Process Engineering") of the Chinese Academy of Sciences, was a visitor to the group during the 2017-2018 academic year. </small>
 
 <small> </small>
