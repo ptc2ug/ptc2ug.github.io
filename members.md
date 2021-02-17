@@ -91,6 +91,18 @@ aside: true
 
 ## Former Group Members (incomplete, not chronological)
 ### Visiting Researchers
+{% include figure.html image="/assets/current/mohamad_zaman_kassaee.jpg" position="left" caption="Co D. Quach" width="200" %}
+<small>Mohamad Zaman Kassaee, a faclulty member from [Tarbiat Modares University](https://en-sci.modares.ac.ir/~kassaeem "Tarbiat Modares University"), was a visitor to the group during the 2017-2018 academic year </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
 
 ### Postdoctoral Reseaerchers
 
