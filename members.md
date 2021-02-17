@@ -109,7 +109,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/former/current/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
+{% include figure.html image="/former/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
 <small>Kun Dong, a faculty member from the [Institute of Process Engineering](http://english.ipe.cas.cn "Institute of Process Engineering") of the Chinese Academy of Sciences, was a visitor to the group during the 2017-2018 academic year. </small>
 
 <small> </small>
