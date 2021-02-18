@@ -24,7 +24,7 @@ aside: true
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (2003); Ph.D., University of Michigan (2009)</small>
 
-<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile.") Chris works with graduate students and postdoctoral fellows on multiple projects.</small>
+<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile.") Chris works with graduate students and postdoctoral fellows on multiple projects, including: nanoscale lubrication, modeling of polymer films, examination of lipid membranes, development of methods for coarse-grained model optimization, and development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small> </small>
 
