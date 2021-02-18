@@ -30,7 +30,7 @@ aside: true
 
 ### Postdoctoral Researchers
 
-{% include figure.html image="/assets/current/wei_zhao.jpg" position="left" caption="Wei Zhao" width="200" %}
+{% include figure.html image="/assets/current/wei_zhao.png" position="left" caption="Wei Zhao" width="200" %}
 <small>Wei is performing research on systems relevant to capacitive energy storage devices.</small>
 
 <small>Education: B.S., Thermal Engineering, Huazhong University of Science and Technology, (2014); M.S. Power Engineering, Huazhong University of Science and Technology, (2016); Ph.D., Thermal Engineering, Huazhong University of Science and Technology, (2019) </small>
