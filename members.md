@@ -141,7 +141,7 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/former/C_Heath_Turner-800x1000.jpg" position="left" caption="C. Heath Tunrer" width="200" %}
-<small>Heath Turner, a Professor from the [Department of Chemical Engineering, University of Alabama](http://http://che.eng.ua.edu/people/hturner/) inm Tuscaloosa, AL, was a sabbatical visitor to the group during the 2015-2016 academic year. </small>
+<small>Heath Turner, a Professor from the [Department of Chemical Engineering, University of Alabama](http://che.eng.ua.edu/people/hturner/) inm Tuscaloosa, AL, was a sabbatical visitor to the group during the 2015-2016 academic year. </small>
 
 <small> </small>
 
