@@ -94,7 +94,7 @@ aside: true
 ### Recent Visiting Researchers
 
 {% include figure.html image="/assets/former/yura.png" position="left" caption="Yurij Kalyuzhnyi" width="200" %}
-<small>Yurij Kalyuzhnyi, a faculty member from the [Institute for Condensed Matter Physics](http://www.icmp.lviv.ua/en/people/kalyuzhnyi-yurii), was a visitor to the group during fall of 2019. </small>
+<small>Yurij Kalyuzhnyi, a Leading researcher in the Department of Theory of Solutions at the [Institute for Condensed Matter Physics](http://www.icmp.lviv.ua/en/people/kalyuzhnyi-yurii) in Lviv, Ukraine, was a visitor to the group during fall of 2019. </small>
 
 <small> </small>
 
@@ -128,7 +128,7 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/former/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
-<small>Kun Dong, a faculty member from the [Institute of Process Engineering](http://english.ipe.cas.cn "Institute of Process Engineering") of the Chinese Academy of Sciences, was a visitor to the group during the 2017-2018 academic year. </small>
+<small>Kun Dong, a faculty member from the [Institute of Process Engineering](http://english.ipe.cas.cn "Institute of Process Engineering") of the Chinese Academy of Sciences in Beijing, China, , was a visitor to the group during the 2017-2018 academic year. </small>
 
 <small> </small>
 
