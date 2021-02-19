@@ -94,7 +94,7 @@ aside: true
 ### Recent Visiting Researchers
 
 {% include figure.html image="/assets/former/yura.png" position="left" caption="Yurij Kalyuzhnyi" width="200" %}
-<small>Mohamad Zaman Kassaee, a faculty member from the [Institute for Condensed Matter Physics](http://www.icmp.lviv.ua/en/people/kalyuzhnyi-yurii), was a visitor to the group during fall of 2019. </small>
+<small>Yurij Kalyuzhnyi, a faculty member from the [Institute for Condensed Matter Physics](http://www.icmp.lviv.ua/en/people/kalyuzhnyi-yurii), was a visitor to the group during fall of 2019. </small>
 
 <small> </small>
 
