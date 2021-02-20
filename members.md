@@ -152,7 +152,7 @@ aside: true
 <small> </small>
 
 <small> </small>
-### Postdoctoral Reseaerchers
+### Postdoctoral Researchers
 
 ### Graduate Students
 
