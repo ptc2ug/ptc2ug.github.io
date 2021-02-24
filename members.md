@@ -184,7 +184,10 @@ aside: true
 <small> </small>
 
 <small> </small>
+
 Ming-Jie Wei
+{% include figure.html image="/assets/former/mingjie_wei.jpg" position="left" caption="Ming-Jie Wei" width="200" %}
+<small>[https://www.linkedin.com/in/mingjie-wei-72545585/](https://www.linkedin.com/in/mingjie-wei-72545585/)</small>
 <small> </small>
 
 <small> </small>
@@ -196,7 +199,9 @@ Ming-Jie Wei
 <small> </small>
 
 <small> </small>
-Stepan Hlushak
+Lucas Angelette
+{% include figure.html image="/assets/former/lucas_mitchell.jpg" position="left" caption="Lucas Angelette" width="200" %}
+<small>[https://www.linkedin.com/in/lucas-angelette-a9366237/](https://www.linkedin.com/in/lucas-angelette-a9366237/)</small>
 <small> </small>
 
 <small> </small>
