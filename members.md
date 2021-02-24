@@ -153,6 +153,12 @@ aside: true
 
 <small> </small>
 ### Recent Postdoctoral Researchers
+Mehdi Jeddi Karzar
+Victor Montoya Trejo
+Ming-Jie Wei
+Stepan Hlushak
+Guang Feng
+
 
 ### Recent Graduate Students
 
