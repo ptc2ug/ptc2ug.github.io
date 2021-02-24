@@ -90,7 +90,7 @@ aside: true
 <small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); M.S., Chemical Engineering, Northwestern University (2019) </small>
 
 
-## Former Group Members (incomplete, not chronological)
+## Former Group Members (incomplete)
 ### Recent Visiting Researchers
 
 {% include figure.html image="/assets/former/yura.png" position="left" caption="Yurij Kalyuzhnyi" width="200" %}
@@ -152,10 +152,10 @@ aside: true
 <small> </small>
 
 <small> </small>
-### Postdoctoral Researchers
+### Recent Postdoctoral Researchers
 
-### Graduate Students
+### Recent Graduate Students
 
-### Undergraduate researchers
+### Recent Undergraduate researchers
 
 
