@@ -163,9 +163,45 @@ aside: true
 
 <small> </small>
 
-Victor Montoya Trejo
+<small> </small>
+
+<small> </small>
+Victor Montoya Trejo https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
 Ming-Jie Wei
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
 Stepan Hlushak
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
 Guang Feng
 
 
