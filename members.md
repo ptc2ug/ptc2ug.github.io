@@ -166,6 +166,8 @@ aside: true
 <small> </small>
 
 <small> </small>
+
+<small> </small>
 {% include figure.html image="/assets/former/victor_trejos_montoya.jpg" position="left" caption="Victor Montoya Trejo" width="200" %}
 <small>[https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/](https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/)</small>
 <small> </small>
