@@ -154,7 +154,7 @@ aside: true
 <small> </small>
 ### Recent Postdoctoral Researchers
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
-<small>https://www.linkedin.com/in/mkjeddi/</small>
+<small>[https://www.linkedin.com/in/mkjeddi/](https://www.linkedin.com/in/mkjeddi/)</small>
 <small> </small>
 
 <small> </small>
