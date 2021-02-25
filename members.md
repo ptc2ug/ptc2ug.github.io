@@ -104,6 +104,8 @@ aside: true
 
 <small> </small>
 
+<small> </small>
+
 {% include figure.html image="/assets/former/mohamad_zaman_kassaee.jpg" position="left" caption="Mohamad Zaman Kassaee" width="200" %}
 <small>Mohamad Zaman Kassaee, a faculty member from [Tarbiat Modares University](https://en-sci.modares.ac.ir/~kassaeem "Tarbiat Modares University") in Tehran, Iran, was a visitor to the group during the 2017-2018 academic year. </small>
 
@@ -115,8 +117,12 @@ aside: true
 
 <small> </small>
 
+<small> </small>
+
 {% include figure.html image="/assets/former/kun_dong.jpg" position="left" caption="Kun Dong" width="200" %}
 <small>Kun Dong, a faculty member from the [Institute of Process Engineering](http://english.ipe.cas.cn "Institute of Process Engineering") of the Chinese Academy of Sciences in Beijing, China, was a visitor to the group during the 2017-2018 academic year. </small>
+
+<small> </small>
 
 <small> </small>
 
@@ -153,20 +159,10 @@ aside: true
 
 <small> </small>
 
-<small> </small>
-
-<small> </small>
-
-<small> </small>
-
 {% include figure.html image="/assets/former/victor_trejos_montoya.jpg" position="left" caption="Victor Montoya Trejo" width="200" %}
 <small>Victor worked on combining the statistical associating fluid theory (SAFT) and classical density functional theory to model the adsorption of alkanes into microporous carbon materials. He was co-advised by Clare McCabe. He is now an Assistant Professor at the Autonomous University of Hidalgo State (UAEH) in Mexico City, Mexico.</small>
 
 <small>[https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/](https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/)</small>
-<small> </small>
-
-<small> </small>
-
 <small> </small>
 
 <small> </small>
