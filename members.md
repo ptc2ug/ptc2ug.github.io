@@ -152,6 +152,8 @@ aside: true
 <small> </small>
 
 <small> </small>
+
+<small> </small>
 ### Recent Postdoctoral Researchers
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
 <small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He was co-advised by Haoxiang Luo in MuMS. He is now Senior Scientist at Aon in Chicago</small>
@@ -200,13 +202,6 @@ Ming-Jie Wei
 
 <small> </small>
 
-<small> </small>
-
-<small> </small>
-
-<small> </small>
-
-<small> </small>
 Lucas Angelette
 {% include figure.html image="/assets/former/lucas_mitchell.jpg" position="left" caption="Lucas Angelette" width="200" %}
 <small>Lucas worked on combining the statistical associating fluid theory (SAFT) and classical density functional theory to model the adsorption of alkanes into microporous carbon materials. He was co-advised by Clare McCabe. He is now a Senior Engineer at Savannah River National Laboratory.</small>
