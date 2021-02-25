@@ -104,20 +104,8 @@ aside: true
 
 <small> </small>
 
-<small> </small>
-
-<small> </small>
-
-<small> </small>
-
 {% include figure.html image="/assets/former/mohamad_zaman_kassaee.jpg" position="left" caption="Mohamad Zaman Kassaee" width="200" %}
 <small>Mohamad Zaman Kassaee, a faculty member from [Tarbiat Modares University](https://en-sci.modares.ac.ir/~kassaeem "Tarbiat Modares University") in Tehran, Iran, was a visitor to the group during the 2017-2018 academic year. </small>
-
-<small> </small>
-
-<small> </small>
-
-<small> </small>
 
 <small> </small>
 
@@ -138,8 +126,6 @@ aside: true
 
 <small> </small>
 
-<small> </small>
-
 {% include figure.html image="/assets/former/C_Heath_Turner-800x1000.jpg" position="left" caption="C. Heath Tunrer" width="200" %}
 <small>Heath Turner, a Professor from the [Department of Chemical Engineering, University of Alabama](http://che.eng.ua.edu/people/hturner/) in Tuscaloosa, AL, was a sabbatical visitor to the group during the 2015-2016 academic year. </small>
 
@@ -151,10 +137,8 @@ aside: true
 
 <small> </small>
 
-<small> </small>
-
-<small> </small>
 ### Recent Postdoctoral Researchers
+
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
 <small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He was co-advised by Haoxiang Luo in MuMS. He is now Senior Scientist at Aon in Chicago</small>
 
