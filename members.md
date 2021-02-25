@@ -154,7 +154,7 @@ aside: true
 <small> </small>
 ### Recent Postdoctoral Researchers
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
-<small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He is now Senior Scientist at Aon in Chicago[https://www.linkedin.com/in/mkjeddi/](https://www.linkedin.com/in/mkjeddi/) </small>
+<small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He was co-advised by Haoxiang Luo in MuMS. He is now Senior Scientist at Aon in Chicago[https://www.linkedin.com/in/mkjeddi/](https://www.linkedin.com/in/mkjeddi/) </small>
 <small> </small>
 
 <small> </small>
@@ -172,7 +172,10 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/former/victor_trejos_montoya.jpg" position="left" caption="Victor Montoya Trejo" width="200" %}
-<small>[https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/](https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/)</small>
+<small>Victor worked on combining the statistical associating fluid theory (SAFT) and classical density functional theory to model the adsorption of alkanes into microporous carbon materials. He was co-advised by Clare McCabe. He is now an Assistant Professor at the Autonomous University of Hidalgo State (UAEH) in Mexico City, Mexico.
+[https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/](https://www.linkedin.com/in/victor-manuel-trejos-montoya-634b85b9/)</small>
+<small> </small>
+
 <small> </small>
 
 <small> </small>
@@ -187,7 +190,8 @@ aside: true
 
 Ming-Jie Wei
 {% include figure.html image="/assets/former/mingjie_wei.jpg" position="left" caption="Ming-Jie Wei" width="200" %}
-<small>[https://www.linkedin.com/in/mingjie-wei-72545585/](https://www.linkedin.com/in/mingjie-wei-72545585/)</small>
+<small>Ming-Jie performed molecular simulations of flow thourgh porous carbon materials. He is now an Assistant Professor at Nanjing Tech University in Nanjing, China.
+[https://www.linkedin.com/in/mingjie-wei-72545585/](https://www.linkedin.com/in/mingjie-wei-72545585/)</small>
 <small> </small>
 
 <small> </small>
