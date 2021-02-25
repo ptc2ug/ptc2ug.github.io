@@ -177,7 +177,6 @@ aside: true
 
 <small> </small>
 
-Ming-Jie Wei
 {% include figure.html image="/assets/former/mingjie_wei.jpg" position="left" caption="Ming-Jie Wei" width="200" %}
 <small>Ming-Jie performed molecular simulations of flow thourgh porous carbon materials. He is now an Assistant Professor at Nanjing Tech University in Nanjing, China.</small>
 
@@ -186,7 +185,6 @@ Ming-Jie Wei
 
 <small> </small>
 
-Lucas Angelette
 {% include figure.html image="/assets/former/lucas_mitchell.jpg" position="left" caption="Lucas Angelette" width="200" %}
 <small>Lucas worked on combining the statistical associating fluid theory (SAFT) and classical density functional theory to model the adsorption of alkanes into microporous carbon materials. He was co-advised by Clare McCabe. He is now a Senior Engineer at Savannah River National Laboratory.</small>
 
@@ -201,9 +199,16 @@ Lucas Angelette
 
 <small> </small>
 
-<small> </small>
-Guang Feng
+{% include figure.html image="/assets/former/guang_feng.jpg" position="left" caption="Guang Feng" width="200" %}
+<small>Guang used molecular dynamics simulations to model supercapacitor consisting of ionic liquid electrolytes and nanoporous carbon electrods. He is now Professor at Huazhong University of Science and Technology (HUST) in Wuhan, China. HGis lab website is at [http://itp.energy.hust.edu.cn/English.htm](http://itp.energy.hust.edu.cn/English.htm)</small>
 
+<small>[https://www.linkedin.com/in/lucas-angelette-a9366237/](https://www.linkedin.com/in/lucas-angelette-a9366237/)</small>
+
+<small> </small>
+
+<small> </small>
+
+<small>Peter Cummings has mentored over 30 postdoctoral researchers in his research group.</small>
 
 ### Recent Graduate Students
 
