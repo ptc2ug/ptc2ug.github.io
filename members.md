@@ -209,8 +209,6 @@ aside: true
 
 <small> </small>
 
-<small> </small>
-
 {% include figure.html image="/assets/former/guang_feng.jpg" position="left" caption="Guang Feng" width="200" %}
 <small>Guang used molecular dynamics simulations to model supercapacitor consisting of ionic liquid electrolytes and nanoporous carbon electrods. He is now Professor at Huazhong University of Science and Technology (HUST) in Wuhan, China. HGis lab website is at [http://itp.energy.hust.edu.cn/English.htm](http://itp.energy.hust.edu.cn/English.htm)</small>
 
