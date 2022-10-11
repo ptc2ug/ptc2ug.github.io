@@ -29,7 +29,8 @@ aside: true
 
 ### Postdoctoral Researchers
 
-No current postdoctoral researchers in the group. However, we are hiring several, so come back to this page for more information in late 2022.
+<small>No current postdoctoral researchers in the group. However, we are hiring several at Heriot-Watt University, so come back to this page for more information in late 2022.</small>
+<small> </small>
 <small> </small>
 
 ### Graduate Students
@@ -157,6 +158,15 @@ No current postdoctoral researchers in the group. However, we are hiring several
 
 <small>Education: B.S., Thermal Engineering, Huazhong University of Science and Technology, (2014); M.S. Power Engineering, Huazhong University of Science and Technology, (2016); Ph.D., Thermal Engineering, Huazhong University of Science and Technology, (2019) </small>
 
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
 
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
 <small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He was co-advised by Haoxiang Luo in MuMS. He is now Senior Scientist at Aon in Chicago</small>
