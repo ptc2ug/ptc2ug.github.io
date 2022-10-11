@@ -13,7 +13,6 @@ aside: true
 
 <small>Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)</small>
 
-<small>Peter Cummings' web page at Vanderbilt University is available [here.](https://engineering.vanderbilt.edu/bio/peter-cummings "here.")</small>
 
 <small> </small>
 
@@ -24,17 +23,13 @@ aside: true
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (2003); Ph.D., University of Michigan (2009)</small>
 
-<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile.](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile.") Chris works with graduate students and postdoctoral fellows on multiple projects, including: nanoscale lubrication, modeling of polymer films, examination of lipid membranes, development of methods for coarse-grained model optimization, and development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile") can be viewed by following the links. Chris works with graduate students and postdoctoral fellows in the Cummings and Clare M<sup>c</sup>Cabe groups on multiple projects, including: nanoscale lubrication, modeling of polymer films, examination of lipid membranes, development of methods for coarse-grained model optimization, and development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small> </small>
 
 ### Postdoctoral Researchers
 
-{% include figure.html image="/assets/current/wei_zhao.png" position="left" caption="Wei Zhao" width="200" %}
-<small>Wei is performing research on systems relevant to capacitive energy storage devices.</small>
-
-<small>Education: B.S., Thermal Engineering, Huazhong University of Science and Technology, (2014); M.S. Power Engineering, Huazhong University of Science and Technology, (2016); Ph.D., Thermal Engineering, Huazhong University of Science and Technology, (2019) </small>
-
+No current postdoctoral researchers in the group. However, we are hiring several, so come back to this page for more information in late 2022.
 <small> </small>
 
 ### Graduate Students
@@ -156,6 +151,12 @@ aside: true
 <small> </small>
 
 ### Recent Postdoctoral Researchers
+
+{% include figure.html image="/assets/current/wei_zhao.png" position="left" caption="Wei Zhao" width="200" %}
+<small>Wei performed research on systems relevant to capacitive energy storage devices.</small>
+
+<small>Education: B.S., Thermal Engineering, Huazhong University of Science and Technology, (2014); M.S. Power Engineering, Huazhong University of Science and Technology, (2016); Ph.D., Thermal Engineering, Huazhong University of Science and Technology, (2019) </small>
+
 
 {% include figure.html image="/assets/former/mehdi.jpeg" position="left" caption="Mehdi Karzar-Jeddi" width="200" %}
 <small>Mehdi worked on computational fluid dyanamics of charged particulate flows relevant to flow capacitors. He was co-advised by Haoxiang Luo in MuMS. He is now Senior Scientist at Aon in Chicago</small>
