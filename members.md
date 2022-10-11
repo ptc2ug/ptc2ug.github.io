@@ -9,7 +9,7 @@ aside: true
 ### Principal Investigator
 
 {% include figure.html image="/assets/current/20140826JR023.png" position="left" caption="Peter T. Cummings" width="200" %}
-<small>Peter Cummings is the John R. Hall Professor of Chemical Engineering at Vanderbilt University.</small>
+<small>Peter Cummings has the position of Bicentennial Professor in the School of Engineering and physical Sciences at Heriot-Watt University oin Edinburgh, Scotland.  He is also the John R. Hall Professor of Chemical Engineering Emeritus at Vanderbilt University.</small>
 
 <small>Education: B. Math (Hons I), University of Newcastle, Australia (1976); Ph.D., University of Melbourne, Australia (1980)</small>
 
