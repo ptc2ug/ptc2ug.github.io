@@ -23,7 +23,7 @@ aside: true
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (2003); Ph.D., University of Michigan (2009)</small>
 
-<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile") can be viewed by following the links. Chris works with graduate students and postdoctoral fellows in the Cummings and Clare M<sup><small>c</small></sup>Cabe groups on multiple projects, including: nanoscale lubrication, modeling of polymer films, examination of lipid membranes, development of methods for coarse-grained model optimization, and development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Chris Iacovella's [web page](https://my.vanderbilt.edu/iacovella/ "web page")  and Vanderbilt University [profile](https://engineering.vanderbilt.edu/bio/christopher-iacovella "profile") can be viewed by following the links. Chris works with graduate students and postdoctoral fellows in the Cummings and Clare M<sup STYLE="font-size:75%">c</sup>Cabe groups on multiple projects, including: nanoscale lubrication, modeling of polymer films, examination of lipid membranes, development of methods for coarse-grained model optimization, and development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
 <small> </small>
 
@@ -205,9 +205,11 @@ aside: true
 
 ### Recent Graduate Students
 {% include figure.html image="/assets/current/justin_gilmer.jpg" position="left" caption="Justin B. Gilmer" width="200" %}
-<small>Justin is performing research on nanotribological systems and is a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Justin performed research on nanotribological systems and was a lead developer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
-<small>Education: B.S., Materials Science, Clemson University, (2016) </small>
+<small>Education: B.S., Materials Science, Clemson University, (2016); Ph.D., Materials Science, Vanderbilt University, (2022) </small>
+
+<small>[https://www.linkedin.com/in/justin-b-gilmer/](https://www.linkedin.com/in/justin-b-gilmer/)</small>
 
 <small> </small>
 
@@ -220,9 +222,11 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/current/ray_matsumoto.jpg" position="left" caption="Ray Matsumoto" width="200" %}
-<small>Ray is performing simulation of systems relevant to capacitive energy storage devices. He also contributes to the development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+<small>Ray performed simulations of systems relevant to capacitive energy storage devices. He also contributed to the development of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
 
-<small>Education: B.S., Materials Science, Clemson University, (2015) </small>
+<small>Education: B.S., Materials Science, Clemson University, (2015); Ph.D., Chemical and Biomolecular Engineering, Vanderbilt University, (2021)  </small>
+
+<small>[https://www.linkedin.com/in/ray-matsumoto-251a8554/](https://www.linkedin.com/in/ray-matsumoto-251a8554/)</small>
 
 <small> </small>
 
