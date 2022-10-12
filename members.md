@@ -19,7 +19,7 @@ aside: true
 ### Research Faculty 
 
 {% include figure.html image="/assets/current/chris_iacovella.jpg" position="left" caption="Christopher R. Iacovella" width="200" %}
-<small>Chris is a Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [Clare McCabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare McCabe.")</small>
+<small>Chris is a Research Assistant Professor of Chemical and Biomolecular Engineering at Vanderbilt University, working with Peter Cummings and [M<sup STYLE="font-size:75%">c</sup>Cabe.](https://engineering.vanderbilt.edu/bio/clare-mccabe "Clare M<sup STYLE="font-size:75%">c</sup>Cabe.")</small>
 
 <small>Education: B.S., Chemical Engineering, University of Buffalo, (2003); Ph.D., University of Michigan (2009)</small>
 
