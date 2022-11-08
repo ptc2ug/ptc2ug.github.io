@@ -56,6 +56,22 @@ aside: true
 <small>Xiaobo is performing simulation of systems relevant to capacitive energy storage devices.</small>
 
 <small>Education: B.S., Chemical Engineering, Qingdao University of Science of Technology, (2017); M.S., Chemical Engineering, Northwestern University (2019) </small>
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+{% include figure.html image="/assets/current/andres.png" position="left" caption="Andres Ordorica" width="200" %}
+<small>Andres is performing simulation of systems relevant to the translational dynamics of confined ionic liquids.</small>
+
+<small>Education: B.S., Chemical Engineering, Universidad Nacional Autonoma de Mexico (2019). </small>
+
+
 
 
 ## Former Group Members (incomplete)
