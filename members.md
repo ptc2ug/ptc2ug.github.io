@@ -70,7 +70,21 @@ aside: true
 <small>Andres is performing simulation of systems relevant to the translational dynamics of confined ionic liquids.</small>
 
 <small>Education: B.S., Chemical Engineering, Universidad Nacional Autonoma de Mexico (2019). </small>
+<small> </small>
 
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+{% include figure.html image="/assets/current/kieran.tiff" position="left" caption="Kieran D. Nehil-Puleo" width="200" %}
+<small>Kieran is performing simulations to study the processing effects of chimeric silk fiber formation.
+</small>
+
+<small>Education: B.S., Material Science, B.S. Statistics,  Michigan State University, (2021). </small>
 
 
 
