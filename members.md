@@ -66,7 +66,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/andres.png" position="left" caption="Andres Ordorica" width="200" %}
+{% include figure.html image="/assets/current/andres.png" position="left" caption="Andres Ordorica Fernández" width="200" %}
 <small>Andres is performing simulation of systems relevant to the translational dynamics of confined ionic liquids.</small>
 
 <small>Education: B.S., Chemical Engineering, Universidad Nacional Autonoma de Mexico (2019). </small>
