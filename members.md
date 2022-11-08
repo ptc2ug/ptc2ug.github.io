@@ -80,7 +80,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/kieran.tiff" position="left" caption="Kieran D. Nehil-Puleo" width="200" %}
+{% include figure.html image="/assets/current/kieran.png" position="left" caption="Kieran D. Nehil-Puleo" width="200" %}
 <small>Kieran is performing simulations to study the processing effects of chimeric silk fiber formation.
 </small>
 
