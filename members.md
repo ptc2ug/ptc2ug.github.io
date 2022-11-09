@@ -87,6 +87,7 @@ aside: true
 <small>Education: B.S., Material Science, B.S. Statistics,  Michigan State University, (2021). </small>
 
 <small> </small>
+
 <small> </small>
 
 ## Former Group Members (incomplete)
