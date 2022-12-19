@@ -44,5 +44,5 @@ These tools are designed to be used together as well as separately, encouraging 
 
 One of the goals of MoSDeF is to enable simulations to be published in such a way that they are reproducible. Reproducibility in scientific research has become a a forefront issue in science, and reproducibility is becoming increasingly expected of computational research. We have been promoting the concept of molecular simulations that are <b>T</b>ransparent, <b>R</b>eproducible, <b>U</b>sable by others, and <b>E</b>xtensible (TRUE). In the Thompson <i>et al.</i> [open access paper](https://www.tandfonline.com/doi/epub/10.1080/00268976.2020.1742938?needAccess=true "open access paper") cited below, we explore the concept of TRUE simulations as well as review MoSDeF capabilities at the time of the writing of the paper. For the most up-to-date information on MoSDeF, please visit [mosdef.org](https://mosdef.org "mosdef.org").
 
-#### LIterature cited
+#### Literature cited
 <small>Thompson, M. W., Gilmer, J. B., Matsumoto, R. A., Quach, C. D., Shamaprasad, P., Yang, A. H., Iacovella, C. R., M<sup STYLE="font-size:75%">c</sup>Cabe, C. & Cummings, P. T., "Towards molecular simulations that are transparent, reproducible, usable by others, and extensible (TRUE)," <i>Mol. Phys.</i> <b>118</b>, e1742938 (2020). DOI: 10.1080/00268976.2020.1742938<small>
