@@ -29,8 +29,19 @@ aside: true
 
 ### Postdoctoral Researchers
 
-<small>No current postdoctoral researchers in the group. However, we are hiring several at Heriot-Watt University, so come back to this page for more information in late 2022.</small>
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Evangelos Tsochantaris" width="200" %}
+<small>Evangelos xxxx</small>
+
+<small>Education: B.S., Chemistry and Applied Mathematics, Millsaps College, (2018) </small>
+
 <small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
 <small> </small>
 
 ### Graduate Students
