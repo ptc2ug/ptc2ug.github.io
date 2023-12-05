@@ -30,9 +30,9 @@ aside: true
 ### Postdoctoral Researchers
 
 {% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Evangelos Tsochantaris" width="200" %}
-<small>Evangelos xxxx</small>
+<small>Evangelos (Vangelis) performs research on physical properties prediction related to carbon capture as part of the [ECO-AI project.](https://ai4netzero.github.io/ecoai_project/) He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe./small>
 
-<small>Education: B.S., Chemistry and Applied Mathematics, Millsaps College, (2018) </small>
+<small>Education: B.S./M.S. in Chemical Engineering, National Technical University of Athens, Athens, Greece (2019); Ph.D., Technical University of Denmark (2022) </small>
 
 <small> </small>
 
@@ -46,10 +46,8 @@ aside: true
 
 ### Graduate Students
 
-
-
-{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Co D. Quach" width="200" %}
-<small>Co performs research on nanotribological systems and is a leading contributor and maintainer of [MoSDeF.](https://mosdef.org "MoSDeF.")</small>
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Co Quach" width="200" %}
+<small>Co performs research on nanotribological systems and is a leading contributor and maintainer of [MoSDeF](https://mosdef.org/)</small>
 
 <small>Education: B.S., Chemistry and Applied Mathematics, Millsaps College, (2018) </small>
 
