@@ -30,7 +30,7 @@ aside: true
 ### Postdoctoral Researchers
 
 {% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Evangelos Tsochantaris" width="200" %}
-<small>Evangelos (Vangelis) performs research on physical properties prediction related to carbon capture as part of the [ECO-AI project.](https://ai4netzero.github.io/ecoai_project/) He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+<small>Evangelos (Vangelis) Tsochantaris performs research on physical properties prediction related to carbon capture as part of the [ECO-AI project.](https://ai4netzero.github.io/ecoai_project/) He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
 <small>Education: B.S./M.S. in Chemical Engineering, National Technical University of Athens, Athens, Greece (2019); Ph.D., Technical University of Denmark (2022) </small>
 
@@ -43,6 +43,8 @@ aside: true
 <small> </small>
 
 <small> </small>
+
+
 
 ### Graduate Students
 
