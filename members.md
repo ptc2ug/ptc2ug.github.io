@@ -27,6 +27,38 @@ aside: true
 
 <small> </small>
 
+### Research Fellows
+
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Arun Sridhar" width="200" %}
+<small>Arun Sridhar performs research ..... He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+
+<small>Education: ......</small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Lingfeng Gui" width="200" %}
+<small>Lingfeng (Griffin) Guiperforms research ..... He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+
+<small>Education: ..... </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
+<small> </small>
+
 ### Postdoctoral Researchers
 
 {% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Evangelos Tsochantaris" width="200" %}
