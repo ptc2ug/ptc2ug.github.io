@@ -44,10 +44,10 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Lingfeng Gui" width="200" %}
-<small>Lingfeng (Griffin) Gui performs research ..... He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+{% include figure.html image="/assets/current/griffin_gui.jpg" position="left" caption="Lingfeng (Griffin) Gui" width="200" %}
+<small>Lingfeng (Griffin) Gui performs research that applies molecular dynamics simulation in two distinct areas: one is centered on computer-aided solvent design for carbon capture, as part of the [ECO-AI project](https://ai4netzero.github.io/ecoai_project/); the other focuses on understanding the properties and functions of human skin lipid bilayers. He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
-<small>Education: ..... </small>
+<small>Education: B.Eng. in Applied Chemistry (2018), East China University of Science and Technology; M.Res. in Molecular Science and Engineering (2019) and Ph.D. in Chemical Engineering (2023), Imperial College London.</small>
 
 <small> </small>
 
