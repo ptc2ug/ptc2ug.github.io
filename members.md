@@ -29,10 +29,11 @@ aside: true
 
 ### Research Fellows
 
-{% include figure.html image="/assets/current/co_quach.jpg" position="left" caption="Arun Sridhar" width="200" %}
+{% include figure.html image="/assets/current/arun.jpg" position="left" caption="Arun Sridhar" width="200" %}
 <small>Arun Sridhar performs research ..... He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
-<small>Education: ......</small>
+<small>Education: B.Tech Chemical Engineering, S.R.M Engineering College (Affiliated to Anna University) Aug 2006; M.S. in chemical Engineering., IIT Madras  August 2012; PhD im Chemical Engineering, Drexel University, 2018
+</small>
 
 <small> </small>
 
