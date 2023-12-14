@@ -30,7 +30,7 @@ aside: true
 ### Research Fellows
 
 {% include figure.html image="/assets/current/arun.jpg" position="left" caption="Arun Sridhar" width="200" %}
-<small>Arun Sridhar performs research ..... He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+<small>Arun Sridhar performs research on structure property relationships for crosslinked polymers and polymer composites (graphene, cellulose), wetting of 2D materials and polymer materials for membrane separation processes. He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
 <small>Education: B.Tech Chemical Engineering, S.R.M Engineering College (Affiliated to Anna University) Aug 2006; M.S. in chemical Engineering., IIT Madras  August 2012; PhD im Chemical Engineering, Drexel University, 2018
 </small>
@@ -46,7 +46,7 @@ aside: true
 <small> </small>
 
 {% include figure.html image="/assets/current/griffin_gui.jpg" position="left" caption="Lingfeng (Griffin) Gui" width="200" %}
-<small>Lingfeng (Griffin) Gui performs research that applies molecular dynamics simulation in two distinct areas: one is centered on computer-aided solvent design for carbon capture, as part of the [ECO-AI project](https://ai4netzero.github.io/ecoai_project/); the other focuses on understanding the properties and functions of human skin lipid bilayers. He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
+<small>Lingfeng (Griffin) Gui performs research that applies molecular dynamics simulation in two distinct areas: one is centered on computer-aided solvent design for carbon capture, as part of the [ECO-AI project](https://ai4netzero.github.io/ecoai_project/); the other focus is on understanding the properties and functions of human skin lipid bilayers. He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
 <small>Education: B.Eng. in Applied Chemistry (2018), East China University of Science and Technology; M.Res. in Molecular Science and Engineering (2019) and Ph.D. in Chemical Engineering (2023), Imperial College London.</small>
 
