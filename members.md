@@ -47,7 +47,7 @@ aside: true
 
 <small> </small>
 
-{% include figure.html image="/assets/current/jmgv.jpg" position="left" caption="José Manuel Guevara Vela" width="200" %}
+{% include figure.html image="/assets/current/jmgv.jpeg" position="left" caption="José Manuel Guevara Vela" width="200" %}
 <small>José-Manuel is a quantum chemist whose research focuses on understanding chemical bonding and non-covalent interactions in systems relevant to catalysis, energy, and the environment. He works on topics such metallic clusters, host guest systems, and CO2 capture and conversion. He is co-advised by Clare M<sup STYLE="font-size:75%">c</sup>Cabe. </small>
 
 <small>Education: B.S. Chemistry, National Autonomous University of Mexico; Ph.D. in Theoretical Chemistry from the University of Oviedo in Spain.
